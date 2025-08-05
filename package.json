@@ -11,7 +11,7 @@
       "name": "my-contacts",
       "title": "My Contacts",
       "description": "View a list of your contacts.",
-      "mode": "no-view"
+      "mode": "view"
     }
   ],
   "dependencies": {
